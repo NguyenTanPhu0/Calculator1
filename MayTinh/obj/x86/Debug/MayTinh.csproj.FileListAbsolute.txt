@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\x86\Debug\MayTinh.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\x86\Debug\MayTinh.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\bin\Debug\MayTinh.exe
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\bin\Debug\MayTinh.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\x86\Debug\MayTinh.fTinhToan.resources
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\x86\Debug\MayTinh.exe
+C:\Users\DELL\OneDrive\Tài liệu\Hoctap\Năm3\KTPM\MayTinh\MayTinh\obj\x86\Debug\MayTinh.pdb
